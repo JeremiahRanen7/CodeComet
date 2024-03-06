@@ -1,0 +1,87 @@
+
+
+*{
+    font-family: "Fredoka",sans-serif;
+}
+/*
+.parent{
+    background-color: #2d2f34;
+}
+*/
+
+/*
+
+.htm-css{
+    border: 1px solid white !important;
+    padding: 20px;
+}
+*/
+
+/*
+
+.buttons{
+    margin-left:85px !important;
+}
+
+.design{
+    background-color: #1c2130;
+    width: 100%;
+    height: 80vh;
+    resize: none;
+    overflow: auto !important;
+    outline: none !important;
+    border: 2px solid rgb(61, 83, 148) !important;
+    color: white !important;
+}
+
+.design:focus{
+    background-color: #1c2130 !important;
+    outline: none !important;
+    border: none !important;
+}
+
+.output-design{
+    position: relative !important;
+    background-color: #fff;
+    height: 80vh;
+    overflow-y: auto;
+    padding: 20px;
+    border-radius: 4px;
+    width: 87.5%
+}
+
+*/
+
+* {
+    font-family: "Fredoka", sans-serif;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.design {
+    background-color: #1c2130;
+    width: 100%;
+    height: 50vh;
+    resize: none;
+    overflow: auto !important;
+    outline: none !important;
+    border: 2px solid rgb(61, 83, 148) !important;
+    color: white !important;
+}
+
+.design:focus {
+    background-color: #1c2130 !important;
+    outline: none !important;
+    border: none !important;
+}
+
+.output-design {
+    background-color: #fff;
+    height: 50vh;
+    overflow-y: auto;
+    padding: 20px;
+    width: 100%;
+}
+
